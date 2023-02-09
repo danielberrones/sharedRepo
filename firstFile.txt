@@ -1,1 +1,7 @@
-please add whatever you want here
+please add whatever you want to this repo
+that includes:
+-ideas
+-folders
+-files
+-images
+-links
