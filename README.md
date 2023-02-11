@@ -1,3 +1,3 @@
-# sharedRepo
+# Django app
 
-Django app
+
