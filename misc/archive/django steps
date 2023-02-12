@@ -1,0 +1,9 @@
+Launch server
+Yes I'm aware I'm publicly showing the admin password
+
+1) cd into django directory, run in terminal: python manage.py runserver
+2) visit http://localhost:8000/polls/ 
+3) visit http://127.0.0.1:8000/admin/
+	USE LOGIN CREDENTIALS
+	un: admin 
+	pw: flameTHROWER420
